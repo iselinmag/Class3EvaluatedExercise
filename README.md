@@ -44,7 +44,7 @@ Basic usage:
 const {
   generateStrongPassword,
   isStrongPassword
-} = require('@yourusername/password-utilities');
+} = require('@iselinmagnusen/password-utilities');
 
 
 const password = generateStrongPassword(12);
