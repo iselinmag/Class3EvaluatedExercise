@@ -25,3 +25,7 @@ function isStrongPassword(password) {
  /[!@#$%^&*()_+]/.test(password);
  return isPasswordStrong;
 }
+module.exports = {
+ generateStrongPassword,
+ isStrongPassword,
+};
