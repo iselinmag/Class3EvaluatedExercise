@@ -1,7 +1,6 @@
 function generateStrongPassword(length = 12) {
  const allowedPasswordCharacters =
-"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%^&
-*()_+";
+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*()_+";
  const strongPassword = Array
  .from(
  { length },
