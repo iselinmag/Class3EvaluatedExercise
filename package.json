@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/iselinmag/Class3EvaluatedExercise/issues"
   },
-  "homepage": "https://github.com/iselinmag/Class3EvaluatedExercise#readme"
+  "homepage": "https://github.com/iselinmag/Class3EvaluatedExercise#readme",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
 }
