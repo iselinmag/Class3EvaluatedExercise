@@ -21,6 +21,7 @@
 Install via npm:
 
 
+
 ```bash
 npm install @iselinmagnusen/password-utilities
 ```

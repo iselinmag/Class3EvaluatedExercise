@@ -1,7 +1,7 @@
 # Security Policy
 
 
-We only provide official security updates for the current major release (e.g., `1.x`). Older versions may not be actively maintained or patched for vulnerabilities.
+We only provide official security updates for the current major release (e.g., `1.1.0`). Older versions may not be actively maintained or patched for vulnerabilities.
 
 
 ## Supported Versions
@@ -9,8 +9,10 @@ We only provide official security updates for the current major release (e.g., `
 
 | Version | Supported |
 | ------- | --------- |
-| 1.x     | ✅        |
-| 0.x     | ❌        |
+| 1.1.0     | ✅       |
+| 1.0.0     | ❌       |
+| 0.        | ❌       |
+
 
 
 ## Reporting a Vulnerability
